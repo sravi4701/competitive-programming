@@ -5,4 +5,4 @@ like [codechef] , [hackerrank], [spoj], [codeforces], etc.
 [codechef]:https://www.codechef.com
 [hackerrank]:https://www.hackerrank.com
 [spoj]:https://www.spoj.com
-[codeforces]:https://www.spoj.com
+[codeforces]:https://www.codeforces.com
